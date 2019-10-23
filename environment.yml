@@ -1,4 +1,4 @@
-name: eo-learn-workshop-environment
+name: servir-training-environment
 channels:
   - conda-forge
 dependencies:
@@ -9,5 +9,8 @@ dependencies:
 - geopandas
 - scikit-learn
 - lightgbm
+- matplotlib
+- keras
 - pip:
   - eo-learn
+  - rasterstats
