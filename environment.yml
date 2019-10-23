@@ -14,3 +14,4 @@ dependencies:
 - pip:
   - eo-learn
   - rasterstats
+  - treeinterpreter
